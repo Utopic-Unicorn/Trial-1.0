@@ -18,3 +18,12 @@ section{
     max-height: 500px;
     width: auto;
 } */
+
+.sliderPic{
+    display: flex;
+    flex-direction: column;
+}
+.h2Text{
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
