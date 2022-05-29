@@ -13,3 +13,8 @@ section{
     float: none;
    
 } */
+
+.gallery-img{
+    max-height: 500px;
+    width: auto;
+}
